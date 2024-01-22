@@ -1,0 +1,9 @@
+{
+  "name": "color-name",
+  "version": "0.1.0",
+  "description": "Determine the primary and secondary color names associated with a given color.",
+  "main": "lib/main.js",
+  "repository": "https://github.com/balajmarius/color-name",
+  "author": "Balaj Marius <balajmarius@gmail.com>",
+  "license": "MIT"
+}
